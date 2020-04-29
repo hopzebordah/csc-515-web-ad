@@ -1,2 +1,2 @@
-# csc-515-web-ad
+# SpacePicGetter Application Web Ad
 a web ad for my 515 project
